@@ -1,5 +1,5 @@
 # StackOverflow
-## Using EDA, help Stack Overflow implement the following features in its web application:
+## Using EDA, helping Stack Overflow implement the following features in its web application:
 
 1. When a user raises a question with a data science tag ('python', 'r', 'matlab', 'sas', 'excel', 'sql'), then Stack Overflow sends the notification to the relevant users.
 
